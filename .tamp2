@@ -29,7 +29,7 @@ echo "$c ┃$m 13$a) $k.UPDATE PROGRAM   $a [$h ON$a ]$c     ┃"
 sleep 0.1
 echo "$c ┃$m 14$a) $k.HUBUNGI AUTHOR   $a [$h ON$a ]$c     ┃"
 sleep 0.1
-echo "$c ┃$m 0 $a) $m.KELUAR PROGRAM          $c    ┃"
+echo "$c ┃$m 0 $a) $m.KELUAR PROGRAM           $c    ┃"
 sleep 0.1
 echo "$c ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯"
 sleep 0.1
