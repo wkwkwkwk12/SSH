@@ -4,7 +4,7 @@ h='\033[32;1m'
 
 echo $n
 echo ""
-read -p " 1.kembali menu | 2.liat jam/tgl/bln/thn : " pe
+read -p " 1.kembali menu | 2.lihat jam/tgl/bln/thn : " pe
 
 case $pe in
 1)
