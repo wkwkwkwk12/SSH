@@ -32,4 +32,7 @@ bakcyn='\e[46m'   # Cyan
 bakwht='\e[47m'   # White
 txtrst='\e[0m'    # Text Reset
 
-echo -e "${txtblk}Italian italics${ENDCOLOR}"
+echo -e "${txtgrn}Italian italics${ENDCOLOR}"
+cal
+echo ""
+sh .plankston/l
