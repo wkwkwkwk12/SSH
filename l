@@ -16,6 +16,8 @@ exit
 sleep 0.1
 echo "$h cek kalender lihat tanggal berapa gajianya 😁"
 sleep 0.1
+echo ""
+sleep 0.1
 date
 sleep 0.1
 cal
