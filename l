@@ -4,7 +4,7 @@ h='\033[32;1m'
 
 echo $n
 echo ""
-read -p " 1.kembali menu | 2.liat kalender : " pe
+read -p " 1.kembali menu | 2.liat jam/tgl/bln/thn : " pe
 
 case $pe in
 1)
@@ -13,18 +13,18 @@ exit
 ;;
 
 2)
-echo $h
-echo '
-cek kalender lihat tanggal berapa gajianya 😁
-'
+sleep 0.1
+echo "$h cek kalender lihat tanggal berapa gajianya 😁"
+sleep 0.1
+date
+sleep 0.1
 cal
 #bash .plankston/ext
 sh .plankston/l
 exit
 ;;
 *)
-echo $k
-echo "perintah anda salah tuan🙏"
+echo "$k perintah anda salah tuan🙏"
 sleep 3
 sh .plankston/l
 exit
