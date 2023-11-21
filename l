@@ -1,3 +1,8 @@
+n='\033[0m'
+k='\033[33;1m'
+h='\033[32;1m'
+
+echo $n
 echo ""
 read -p " 1.kembali menu | 2.liat kalender : " pe
 
@@ -8,16 +13,15 @@ exit
 ;;
 
 2)
+echo $h
 echo '
-oke thankyou jika mau requests fitur
-hubungi plankston
-
-salam santuy
+cek kalender lihat tanggal berapa gajianya 😁
 '
 bash .plankston/ext
 exit
 ;;
 *)
+echo $k
 echo "perintah anda salah tuan🙏"
 sleep 3
 sh .plankston/l
