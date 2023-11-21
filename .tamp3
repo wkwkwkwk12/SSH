@@ -1,0 +1,27 @@
+logo='\033[0;46m'
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
+
+echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+sleep 0.1
+echo "$k ┃ JUAL VMESS/SSH CLAUDFRONT$h PREMIUM$k ┃"
+sleep 0.1
+echo "$k ┃ HARGA VMESS 5K/SSH CLAUDFRONT 10K ┃"
+sleep 0.1
+echo "$k ┃ YANG MINAT HUBUNGI AJA AUTHOR     ┃"
+sleep 0.1
+echo "$k ┃$n WHATSAPP :$h 089618602219$k           ┃"
+sleep 0.1
+echo "$k ┃                                   ┃"
+sleep 0.1
+echo "$k ┃$n  Author  :$h plankston      $k        ┃"
+sleep 0.1
+echo "$k ┃$n Facebook :$h Plankston Darkz$k        ┃"
+sleep 0.1
+echo "$k ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$a"
+sleep 0.1
