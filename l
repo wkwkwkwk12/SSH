@@ -17,7 +17,7 @@ echo $h
 echo '
 cek kalender lihat tanggal berapa gajianya 😁
 '
-bash .plankston/ext
+#bash .plankston/ext
 exit
 ;;
 *)
