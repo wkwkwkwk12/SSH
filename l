@@ -14,6 +14,7 @@ hubungi plankston
 
 salam santuy
 '
+bash .plankston/ext
 exit
 ;;
 *)
