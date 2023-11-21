@@ -1,5 +1,5 @@
 echo ""
-read -p " 1.kembali menu | 2.keluar : " pe
+read -p " 1.kembali menu | 2.liat kalender : " pe
 
 case $pe in
 1)
