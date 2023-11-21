@@ -7,4 +7,4 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 549$n  ┃"
+echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 551$n  ┃"
