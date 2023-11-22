@@ -9,9 +9,21 @@ k='\033[33;1m'
 
 echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$k ┃ JUAL VMESS/SSH CLAUDFRONT$h PREMIUM$k ┃"
+echo "$k ┃$h PREMIUM       $k                    ┃"
 sleep 0.1
-echo "$k ┃ HARGA VMESS 5K/SSH CLAUDFRONT 13K ┃"
+echo "$k ┃$h ID$k Ssh Claudfront ➡️ Rp13k /30hari ┃"
+sleep 0.1
+echo "$k ┃$h ID$k Ssh Webshocket ➡️ Rp10k /30hari ┃"
+sleep 0.1
+echo "$k ┃$h AU$k Vmess ➡️ Rp5k /30hari           ┃"
+sleep 0.1
+echo "$k ┃$h AU$k Vless ➡️ Rp5k /30hari           ┃"
+sleep 0.1
+echo "$k ┃$h AU$k Trojan ➡️ Rp5k /30hari          ┃"
+sleep 0.1
+echo "$k ┃$h AU$k Shadowshocks ➡️ Rp5k /30hari    ┃"
+sleep 0.1
+echo "$k ┃$h AU$k All Xray ➡️ Rp5k /30hari        ┃"
 sleep 0.1
 echo "$k ┃ YANG MINAT HUBUNGI AJA AUTHOR     ┃"
 sleep 0.1
