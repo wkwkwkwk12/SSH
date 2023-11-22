@@ -8,7 +8,7 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 627 $n ┃"
+echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 629 $n ┃"
 sleep 0.1
 echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
