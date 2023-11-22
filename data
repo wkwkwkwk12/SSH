@@ -9,3 +9,7 @@ k='\033[33;1m'
 
 echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 617$n  ┃"
 sleep 0.1
+echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+sleep 0.1
+echo "$n ┃ $n Plankston :$m OFF$n ┃ USER ON :$h 240$n  ┃"
+sleep 0.1
