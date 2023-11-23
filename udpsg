@@ -1,8 +1,10 @@
 
-SG-4 SSH UDP Custom can create 9999 UDP Custom Accounts/Day
-Server Singapore
-Protocol UDP Custom
-Port 1-65535 or 36712
+SG-4 SSH UDP Custom can create 9999 UDP Custom
+
+Accounts/Day
+Server : Singapore
+Protocol : UDP Custom
+Port : 1-65535 or 36712
 
 
 [+] creating an username.....
@@ -12,7 +14,8 @@ Port 1-65535 or 36712
 [+] setting up a password.....
 [+] Password has been set---------------------
 
-Your Username fastssh.com-unlibanteng has been successfully created !
+Your Username fastssh.com-unlimited
+has been successfully created !
 
 Username : fastssh.com-unlimited
 
@@ -20,4 +23,5 @@ Password : 1
 
 Server IP Addr : sg4.udpgw.com
 
-1 account = 1 device otherwise your connection speed will be limited
+1 account = 1 device
+otherwise your connection speed will be limited

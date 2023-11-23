@@ -1,8 +1,10 @@
 
-SSH WS HE MM can create 300 SSH Accounts/Day
-Hostname ssh-mm2-ws.sshws.net
-SSH Non-TLS Port 80
-SSH TLS Port 443
+SSH WS HE MM can create 300 SSH
+
+Accounts/Day
+Hostname : ssh-mm2-ws.sshws.net
+SSH Non-TLS Port : 80
+SSH TLS Port : 443
 
 
 [+] creating an username.....
@@ -12,7 +14,8 @@ SSH TLS Port 443
 [+] setting up a password.....
 [+] Password has been set---------------------
 
-Your Username fastssh.com-singa2 has been successfully created !
+Your Username fastssh.com-oyennn
+has been successfully created !
 
 Username SSH : fastssh.com-oyennn
 
@@ -20,4 +23,6 @@ Password SSH : 1
 
 Host IP Addr : ssh-mm2-ws.sshws.net
 
-You allowed use this account up to two (2) multi-bitvise, else you will be automatically disconnected from the server
+You allowed use this account up to two (2) multi-bitvise,
+else you will be automatically disconnected
+from the server
