@@ -21,7 +21,7 @@ echo "$c ┃$m 9 $a) $k.SSH WS RANDOOM   $a [$h ON$a ]$c     ┃"
 sleep 0.1
 echo "$c ┃$m 10$a) $k.VMESS/V2RAY WS   $a [$h ON$a ]$c     ┃"
 sleep 0.1
-echo "$c ┃$m 11$a) $k.SSH CLAUDFRONT   $a [$m OFF$a ]$c    ┃"
+echo "$c ┃$m 11$a) $k.SSH CLAUDFRONT   $a [$h ON $a ]$c    ┃"
 sleep 0.1
 echo "$c ┃$m 12$a) $k.UDP ALL SIMCARD  $a [$m OFF$a ]$c    ┃"
 sleep 0.1
