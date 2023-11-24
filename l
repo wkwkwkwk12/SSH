@@ -9,7 +9,7 @@ read -p " 1.kembali menu | 2.lihat jam/tgl/bln/thn : " pe
 
 case $pe in
 1)
-sh internet
+sh .plankston/cek2
 exit
 ;;
 
