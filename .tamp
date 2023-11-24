@@ -9,7 +9,6 @@ k='\033[33;1m'
 
 echo "$p   SELAMAT DATANG DI FITUR PLANKSTON"
 echo ""
-sleep 1
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
 echo "$c ┃$k AUTO$p SSH$c VMESS$n DARI$p FASTSSH$h  FREE$c ┃"
