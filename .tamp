@@ -8,7 +8,9 @@ p='\033[1;35m'
 k='\033[33;1m'
 
 echo "$p   SELAMAT DATANG DI FITUR PLANKSTON"
+sleep 0.1
 echo ""
+sleep 0.1
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
 echo "$c ┃$k AUTO$p SSH$c VMESS$n DARI$p FASTSSH$h  FREE$c ┃"
