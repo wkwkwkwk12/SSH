@@ -11,9 +11,11 @@ echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━�
 sleep 0.1
 echo "$k ┃$h                           PREMIUM$k ┃"
 sleep 0.1
-echo "$k ┃$h ID$k Ssh Claudfront ➡️ Rp13k /30hari ┃"
+echo "$k ┃$h ID$k Ssh Claudfront ➡️ Rp10k /30hari ┃"
 sleep 0.1
-echo "$k ┃$m ID$k Ssh Webshocket ➡️ Rp10k /30hari ┃"
+echo "$k ┃$h ID$k Ssh Webshocket ➡️ Rp10k /30hari ┃"
+sleep 0.1
+echo "$k ┃$h ID$k Udp All Tkp vv ➡️ Rp10k /30hari ┃"
 sleep 0.1
 echo "$k ┃$h AU$k Vmess ➡️ Rp5k /30hari           ┃"
 sleep 0.1
