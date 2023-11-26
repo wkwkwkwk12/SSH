@@ -11,8 +11,8 @@ k='\033[33;1m'
 echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 665 $n ┃$h"
 sleep 0.1
 echo '
-gunakan masa mudamu sebaik mgkin
-selagi masih ada waktu 
+ gunakan masa mudamu sebaik mgkin
+ selagi masih ada waktu 
 '
 sleep 0.1
 echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
