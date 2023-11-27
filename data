@@ -8,16 +8,15 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 666 $n ┃$h"
+echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 666 $n                 ┃$h"
 sleep 0.1
-echo "$n ┃ $m total pengguna premium :$a ☬⃟⧐$h 5   $n ┃$h"
+echo "$n ┃ $m akun premium yang terjual :$a ☬⃟⧐$h 5   $n              ┃$h"
 sleep 0.1
-echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
-echo '
- jangan biarkan kegagalan mengalahkanmu
-'
+echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
 sleep 0.1
-echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+echo " jangan biarkan kegagalan mengalahkanmu"
 sleep 0.1
-echo "$n ┃ Plankston :$h ON $n  🚀🚀🚀 2023-11-18$n┃"
+echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+sleep 0.1
+echo "$n ┃ Plankston :$h ON $n                 🚀🚀🚀 2023-11-18$n ┃"
 sleep 0.1

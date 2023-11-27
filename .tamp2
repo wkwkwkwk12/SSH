@@ -7,29 +7,29 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$c ┃$k SSH$n DAN$c VMES$p PRM$h KECUALI$p UDP$h FREE$c ┃"
+echo "$c ┃$k SSH$n DAN$c VMES$p PREMIUM$h KECUALI$p UDP$h FREE$c             ┃"
 sleep 0.1
-echo "$c ┃$h =================================$c ┃"
+echo "$c ┃$h =================================================$c ┃"
 sleep 0.1
-echo "$c ┃$m 7 $a) $k.SSH WS INDONESIA $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET            INDONESIA $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 8 $a) $k.SSH WS SINGAPURE $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 8 $a) $k.SSH WEBSHOCKET SINGAPURE            $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 9 $a) $k.SSH WS RANDOOM   $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET RANDOOM              $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 10$a) $k.VMESS/V2RAY WS   $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 10$a) $k.VMESS/V2RAY WEBSHOCKET              $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 11$a) $k.SSH CLAUDFRONT   $a [$m OFF$a ]$c    ┃"
+echo "$c ┃$m 11$a) $k.SSH CLAUDFRONT                      $a [$m OFF$a ]$c ┃"
 sleep 0.1
-echo "$c ┃$m 12$a) $k.UDP ALL SIMCARD  $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 12$a) $k.UDP ALL SIMCARD                     $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 13$a) $k.UPDATE PROGRAM   $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 13$a) $k.UPDATE PROGRAM                      $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 14$a) $k.SUPORT PLANKSTON $a [$h ON$a ]$c     ┃"
+echo "$c ┃$m 14$a) $k.SUPPORT PLANKSTON                   $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 0 $a) $m.KELUAR PROGRAM           $c    ┃"
+echo "$c ┃$m 0 $a) $m.KELUAR PROGRAM                      $c         ┃"
 sleep 0.1
-echo "$c ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯"
+echo "$c ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯"
 sleep 0.1

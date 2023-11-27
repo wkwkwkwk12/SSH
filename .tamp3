@@ -7,35 +7,33 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
+echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$k ┃$h                           PREMIUM$k ┃"
+echo "$k ┃$h                 JUAL AKUN PREMIUM$k                 ┃"
 sleep 0.1
-echo "$k ┃$h ID$k Ssh Claudfront ➡️ Rp10k /30hari ┃"
+echo "$k ┃$h ID$k Ssh Claudfront                 ➡️ Rp10k /30hari ┃"
 sleep 0.1
-echo "$k ┃$h ID$k Ssh Webshocket ➡️ Rp10k /30hari ┃"
+echo "$k ┃$h ID$k Ssh Webshocket Support Udp     ➡️ Rp10k /30hari ┃"
 sleep 0.1
-echo "$k ┃$h ID$k Udp Ssh Ws     ➡️ Rp10k /30hari ┃"
+echo "$k ┃$h AU$k Vmess                          ➡️ Rp5k /30hari  ┃"
 sleep 0.1
-echo "$k ┃$h AU$k Vmess ➡️ Rp5k /30hari           ┃"
+echo "$k ┃$h AU$k Vless                          ➡️ Rp5k /30hari  ┃"
+sleep 0.1 
+echo "$k ┃$h AU$k Trojan                         ➡️ Rp5k /30hari  ┃"
 sleep 0.1
-echo "$k ┃$h AU$k Vless ➡️ Rp5k /30hari           ┃"
+echo "$k ┃$h AU$k Shadowshocks                   ➡️ Rp5k /30hari  ┃"
 sleep 0.1
-echo "$k ┃$h AU$k Trojan ➡️ Rp5k /30hari          ┃"
+echo "$k ┃$h AU$k All Xray                       ➡️ Rp5k /30hari  ┃"
 sleep 0.1
-echo "$k ┃$h AU$k Shadowshocks ➡️ Rp5k /30hari    ┃"
+echo "$k ┃$m              SILAHKAN YANG MAU BELI$k               ┃"
 sleep 0.1
-echo "$k ┃$h AU$k All Xray ➡️ Rp5k /30hari        ┃"
+echo "$k ┃$n WHATSAPP :$h 089618602219$k                           ┃"
 sleep 0.1
-echo "$k ┃$m      SILAHKAN YANG MAU BELI$k       ┃"
+echo "$k ┃                                                   ┃"
 sleep 0.1
-echo "$k ┃$n WHATSAPP :$h 089618602219$k           ┃"
+echo "$k ┃$n  Author  :$h plankston      $k                        ┃"
 sleep 0.1
-echo "$k ┃                                   ┃"
+echo "$k ┃$n Facebook :$h Plankston Darkz$k                        ┃"
 sleep 0.1
-echo "$k ┃$n  Author  :$h plankston      $k        ┃"
-sleep 0.1
-echo "$k ┃$n Facebook :$h Plankston Darkz$k        ┃"
-sleep 0.1
-echo "$k ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$a"
+echo "$k ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$a"
 sleep 0.1
