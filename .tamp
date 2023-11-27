@@ -7,7 +7,7 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$p        SELAMAT DATANG DI FITUR PLANKSTON"
+echo "$p           SELAMAT DATANG DI FITUR PLANKSTON"
 sleep 0.1
 echo ""
 sleep 0.1
