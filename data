@@ -10,6 +10,9 @@ k='\033[33;1m'
 
 echo "$n ┃ $m total pengguna scripts :$a ☬⃟⧐$h 666 $n ┃$h"
 sleep 0.1
+echo "$n ┃ $m total pengguna premium :$a ☬⃟⧐$h 5   $n ┃$h"
+sleep 0.1
+echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
 echo '
  jangan biarkan kegagalan mengalahkanmu
 '
