@@ -5,7 +5,7 @@ h='\033[32;1m'
 
 echo $n
 echo ""
-read -p " 1.kembali menu | 2.lihat jam/tgl/bln/thn : " pe
+read -p " 1.menu | 2.tes koneksi : " pe
 
 case $pe in
 1)
@@ -15,13 +15,11 @@ exit
 
 2)
 sleep 0.1
-echo "$h cek kalender lihat tanggal berapa gajianya 😁"
+echo "$h cek kecepatan koneksi"
 sleep 0.1
 echo ""
 sleep 0.1
-date
-sleep 0.1
-cal
+speedtest-cli
 sleep 0.1
 #bash .plankston/ext
 sh .plankston/l
