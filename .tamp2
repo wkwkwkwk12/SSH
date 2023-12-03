@@ -9,7 +9,7 @@ k='\033[33;1m'
 
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$c ┃$k AUTO$n SSH$c VMES$p UDP$h DARI$p PREMIUM$h DARI$k MYINJECTOR$c  ┃"
+echo "$c ┃$k AUTO$n SSH$c VMES$p UDP$h DARI$p PREMIUM$h DARI$k MYINJECTOR$c    ┃"
 sleep 0.1
 echo "$c ┃$h =================================================$c ┃"
 sleep 0.1
