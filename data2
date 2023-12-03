@@ -7,5 +7,5 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$n ┃ Update SC :$h 5$n                  $n Update SSH :$h 4   $n ┃"
+echo "$n ┃ Update SC :$h 5$n                  $n Update SSH :$h 5   $n ┃"
 sleep 0.1
