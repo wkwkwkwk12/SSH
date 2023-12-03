@@ -51,7 +51,7 @@ echo "$h [■■■■■■■■■■■■■■■■■■■ ] 99% 𝙲�
 sleep 0.1
 echo "$h [■■■■■■■■■■■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍/ BOOTING..."
 
-sleep 0.5
+sleep 0.2
 clear
 echo "$p           SELAMAT DATANG DI FITUR PLANKSTON"
 sleep 0.1
@@ -67,9 +67,9 @@ echo "$c ┃$m 1 $a) $k.SSH WEBSHOCKET SINGAPURE            $a [$h ON$a ]$c  ┃
 sleep 0.1
 echo "$c ┃$m 2 $a) $k.SSH WEBSHOCKET BRAZIL               $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 3 $a) $k.VMESS SINGAPURE                     $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 3 $a) $k.VMESS SINGAPURE                     $a [$m OFF$a ]$c ┃"
 sleep 0.1
-echo "$c ┃$m 4 $a) $k.VMESS INDONESIA                     $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 4 $a) $k.VMESS INDONESIA                     $a [$m OFF$a ]$c ┃"
 sleep 0.1
 echo "$c ┃$m 5 $a) $k.UDP SINGAPURE                       $a [$h ON$a ]$c  ┃"
 sleep 0.1
