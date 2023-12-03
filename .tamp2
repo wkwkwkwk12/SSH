@@ -9,17 +9,17 @@ k='\033[33;1m'
 
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$c ┃$k SSH$n DAN$c VMES$p PREMIUM$h KECUALI$p UDP$h FREE$c             ┃"
+echo "$c ┃$k AUTO$n SSH$c VMES$p UDP$h DARI$p PREMIUM$h DARI$k MYINJECTOR$c  ┃"
 sleep 0.1
 echo "$c ┃$h =================================================$c ┃"
 sleep 0.1
-echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET INDONESIA            $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET SINGAPURE 3DAYS      $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 8 $a) $k.SSH WEBSHOCKET SINGAPURE            $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 8 $a) $k.SSH WEBSHOCKET SINGAPURE 7DAYS      $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET RANDOOM              $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET SINGAPURE 30DAYS     $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 10$a) $k.VMESS/V2RAY WEBSHOCKET              $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 10$a) $k.VMESS/V2RAY WEBSHOCKET              $a [$m OFF$a ]$c ┃"
 sleep 0.1
 echo "$c ┃$m 11$a) $k.SSH CLAUDFRONT                      $a [$m OFF$a ]$c ┃"
 sleep 0.1
