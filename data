@@ -18,5 +18,5 @@ echo " keberhasilan milik mereka yang tidak menyerah"
 sleep 0.1
 echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$n ┃ Plankston :$h ON $n                 🚀🚀🚀 2023-11-18$n ┃"
+echo "$n ┃ Plankston :$h ON $n Update :$h 5          🚀 2023-11-18$n ┃"
 sleep 0.1
