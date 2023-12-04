@@ -10,7 +10,7 @@ k='\033[33;1m'
 
 echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮$h"
 sleep 0.1
-echo "$n ┃ $m total pengguna premium :$a ☬⃟⧐$h 6   $n                 ┃$h"
+echo "$n ┃ $k total pengguna premium :$a ☬⃟⧐$h 6   $n                 ┃$h"
 sleep 0.1
 echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
 sleep 0.1
