@@ -1,7 +1,7 @@
 
-   UDP HC ALL SIMCARD FAILED
+   UDP HC ALL SIMCARD NOT FOUND
 
-host : 45.65.113.50
-user : fastssh.com-unliallsim
-pass : 1
-port : 1-65535 or 36712
+host : 
+user : 
+pass : 
+port : 
