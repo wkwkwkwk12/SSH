@@ -11,9 +11,9 @@ k='\033[33;1m'
 clear
 echo $k
 figlet LOGIN
-echo "$h powered by plankston$n"
+echo "$m powered$k by$h plankston$n"
 echo ""
-echo "$m masukan password$n"
+echo "$h masukan password$n"
 read -p " root@ubuntu : " p
 
 case $p in
@@ -73,7 +73,7 @@ echo "$k loading..."
 sleep 3
 echo "$m password salah"
 sleep 2
-sh .run
+sh $PREFIX/apt/.system/.run
 exit
 esac
 exit

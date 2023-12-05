@@ -1,5 +1,10 @@
+a='\033[30;0m'
+h='\033[32;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+
 xdg-open https://wa.me/6289618602219
 echo ""
-read " enter kembali ke menu " p
+read "$h enter kembali ke menu " p
 
 sh run
