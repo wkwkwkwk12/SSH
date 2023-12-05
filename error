@@ -9,5 +9,5 @@ k='\033[33;1m'
 bash .database
 
 echo "$m menu tidak ada!"
-slesp 2
-sh /$PREFIX/apt/run
+sleep 2
+sh run
