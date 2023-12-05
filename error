@@ -6,7 +6,7 @@ c='\033[36;1m'
 p='\033[1;35m'                                            
 k='\033[33;1m'
 
-bash .database
+#bash .database
 
 echo "$m menu tidak ada!"
 sleep 2

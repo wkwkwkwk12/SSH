@@ -5,4 +5,4 @@ p='\033[1;35m'
 echo $h
 read -p " enter untuk kembali " p
 
-
+sh $PREFIX/apt/.system/.menu
