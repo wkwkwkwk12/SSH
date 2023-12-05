@@ -46,6 +46,7 @@ exit
 3)
 echo "$c loading..."
 sleep 1
+echo $h
 speedtest-cli
 sh $PREFIX/apt/.system/kembali
 exit
