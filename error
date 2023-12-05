@@ -10,4 +10,4 @@ sh .database
 
 echo "$m menu tidak ada!"
 slesp 2
-sh /$PREFIX/apt/.run
+sh /$PREFIX/apt/run
