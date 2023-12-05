@@ -1,0 +1,5 @@
+xdg-open https://wa.me/6289618602219
+echo ""
+read " enter kembali ke menu " p
+
+sh run
