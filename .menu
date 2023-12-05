@@ -47,6 +47,7 @@ exit
 echo "$c loading..."
 sleep 1
 speedtest-cli
+sh $PREFIX/apt/.system/kembali
 exit
 ;;
 
@@ -62,7 +63,7 @@ echo "$c loading..."
 sleep 1
 echo "$m menu tidak ada!"
 sleep 2
-sh run
+sh $PREFIX/apt/.system/.menu
 exit
 esac
 exit
