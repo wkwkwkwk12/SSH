@@ -54,6 +54,6 @@ echo "$h [■■■■■■■■■■■■■■■■■■■■] 100% �
 
 clear
 echo ""
-echo "$k  program vvip powered by plankston"
+echo "$h  program vvip powered by plankston"
 echo "$h 1$k .login"
 echo "$h 2$k .hubungi plankston$a"
