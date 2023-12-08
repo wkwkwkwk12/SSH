@@ -25,7 +25,7 @@ echo "$k ┃$h 3$c .$m KECEPATAN KONEKSI$k         ┃"
 sleep 0.1
 echo "$k ┃$h 0$c .$m KELUAR PROGRAM$k            ┃"
 sleep 0.1
-echo "$k usser$c :$h 1           $k            ┃"
+echo "$k ┃n usser$c :$h 1           $k          ┃"
 sleep 0.1
 echo "$k ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$n"
 read -p " pilih menu : " pc
