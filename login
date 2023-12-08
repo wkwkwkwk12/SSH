@@ -53,5 +53,7 @@ sleep 0.1
 echo "$h [■■■■■■■■■■■■■■■■■■■■] 100% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍/ BOOTING..."
 
 clear
+echo ""
+echo "$k  program vvip powered by plankston"
 echo "$h 1$k .login"
 echo "$h 2$k .hubungi plankston$a"
