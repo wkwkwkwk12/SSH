@@ -67,11 +67,11 @@ echo "$c ┃$m 1 $a) $k.SSH WEBSHOCKET SINGAPURE            $a [$h ON$a ]$c  ┃
 sleep 0.1
 echo "$c ┃$m 2 $a) $k.SSH WEBSHOCKET BRAZIL               $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 3 $a) $k.VMESS SINGAPURE                     $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 3 $a) $k.VMESS SINGAPURE                     $a [$m OFF$a ]$c ┃"
 sleep 0.1
-echo "$c ┃$m 4 $a) $k.VMESS INDONESIA                     $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 4 $a) $k.VMESS INDONESIA                     $a [$m OFF$a ]$c ┃"
 sleep 0.1
-echo "$c ┃$m 5 $a) $k.UDP SINGAPURE                       $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 5 $a) $k.UDP SINGAPURE                       $a [$m OFF$a ]$c ┃"
 sleep 0.1
 echo "$c ┃$m 6 $a) $k.UDP GERMANY                         $a [$h ON$a ]$c  ┃"
 sleep 0.1
