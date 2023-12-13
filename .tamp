@@ -7,6 +7,8 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
+echo $h
+sh .plankston/.name
 echo "$h [                    ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍/ BOOTING..."
 sleep 0.1
 echo "$h [                    ] 01% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍/ BOOTING..."
@@ -54,6 +56,9 @@ echo "$h [■■■■■■■■■■■■■■■■■■■■] 100% �
 sleep 0.2
 clear
 echo "$p           SELAMAT DATANG DI FITUR PLANKSTON"
+sleep 0.1
+echo $h
+sh .name
 sleep 0.1
 echo ""
 sleep 0.1
