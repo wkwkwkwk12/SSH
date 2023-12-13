@@ -1,0 +1,31 @@
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+#p='\033[1;35m'
+k='\033[33;1m'
+
+
+echo $h
+echo "$k SELAMAT DATANG DI TOOLS PLANKSTON"
+echo ""
+echo "$h  yes$k or$h no"
+read -p "  mau ubah nama? : " p
+
+case $p in
+yes)
+sh SSH/.name
+exit
+;;
+
+no)
+exit
+;;
+*)
+echo "$m pilih menu nya tuan"
+sleep 1
+sh SSH/.name0
+exit
+esac
+exit
+done
