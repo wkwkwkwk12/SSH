@@ -59,9 +59,10 @@ echo "$p           SELAMAT DATANG DI FITUR PLANKSTON"
 sleep 0.1
 echo $h
 cat .name
-speedtest-cli
 sleep 0.1
 date
+sleep 0.1
+speedtest-cli
 sleep 0.1
 echo ""
 sleep 0.1
