@@ -14,7 +14,7 @@ read -p "  mau ubah nama? : " p
 
 case $p in
 yes)
-sh SSH/.name
+sh .plankston/.name
 exit
 ;;
 
