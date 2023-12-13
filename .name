@@ -13,7 +13,7 @@ echo ""
 echo "$m masukan nama anda tuan :) "
 echo ""
 echo $k
-read -p " pilih server : " p
+read -p " masukan nama : " p
 echo ""
 echo "$h LOADING...$k"
 echo ""
