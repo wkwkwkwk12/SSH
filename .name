@@ -1,0 +1,29 @@
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+#p='\033[1;35m'
+k='\033[33;1m'
+
+
+echo $h
+echo "$k SELAMAT DATANG DI TOOLS PLANKSTON"
+echo ""
+echo "$m masukan nama anda tuan :) "
+echo ""
+echo $k
+read -p " pilih server : " p
+echo ""
+echo "$h LOADING...$k"
+echo ""
+
+sleep 1
+rm .name
+sleep 0.1
+touch .name
+sleep 0.2
+echo "    HALO TUAN 🙏 $p 🙏 😊😊😊" > .name
+echo ""
+read -p " enter to continue " k
+echo ""
