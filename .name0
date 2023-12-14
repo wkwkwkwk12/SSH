@@ -22,7 +22,7 @@ no)
 exit
 ;;
 *)
-echo "$m pilih menu nya tuan"
+echo "$m perintah anda salah tuan"
 sleep 1
 clear
 sh .plankston/.name0
