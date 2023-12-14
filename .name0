@@ -24,7 +24,7 @@ exit
 *)
 echo "$m pilih menu nya tuan"
 sleep 1
-sh SSH/.name0
+sh .plankston/.name0
 exit
 esac
 exit
