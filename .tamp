@@ -68,7 +68,7 @@ echo ""
 sleep 0.1
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$c ┃$k AUTO$p SSH$c VMESS$n DARI$p FASTSSH$h  FREE$c                 ┃"
+echo "$c ┃$k AUTO$p SSH$c VMESS$n UDP$h FREE$p DARI$h  FASTSSH$c             ┃"
 sleep 0.1
 echo "$c ┃$h =================================================$c ┃"
 sleep 0.1
