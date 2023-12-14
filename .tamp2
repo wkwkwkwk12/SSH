@@ -9,21 +9,21 @@ k='\033[33;1m'
 
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$c ┃$k AUTO$n SSH$c VMES$p UDP$h PREMIUM$p DARI$h MYINJECTOR$c         ┃"
+echo "$c ┃$k  AUTO$n SSH$c VMES$p UDP$h PREMIUM$p DARI$h JAGOANSSH $c        ┃"
 sleep 0.1
 echo "$c ┃$h =================================================$c ┃"        
 sleep 0.1
-echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET INDONESIAN           $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET FRANCIS              $a [$h ON$a ]$c  ┃"
 sleep 0.1
 echo "$c ┃$m 8 $a) $k.SSH WEBSHOCKET SINGAPURE            $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET RANDOOM              $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET UKRAINA              $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 10$a) $k.VMESS/V2RAY WEBSHOCKET              $a [$m OFF$a ]$c ┃"
+echo "$c ┃$m 10$a) $k. ???                                $a [$m OFF$a ]$c ┃"
 sleep 0.1
-echo "$c ┃$m 11$a) $k.SSH CLAUDFRONT                      $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 11$a) $k. ???                                $a [$m OFF$a ]$c ┃"
 sleep 0.1
-echo "$c ┃$m 12$a) $k.UDP ALL SIMCARD                     $a [$m OFF$a ]$c ┃"
+echo "$c ┃$m 12$a) $k. ???                                $a [$m OFF$a ]$c ┃"
 sleep 0.1
 echo "$c ┃$m 13$a) $k.UPDATE PROGRAM                      $a [$h ON$a ]$c  ┃"
 sleep 0.1
