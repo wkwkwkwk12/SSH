@@ -62,13 +62,13 @@ cat .name
 sleep 0.1
 date
 sleep 0.1
-speedtest-cli
+#speedtest-cli
 sleep 0.1
 echo ""
 sleep 0.1
 echo "$c ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$c ┃$k AUTO$p SSH$c VMESS$n UDP$h FREE$p DARI$h  FASTSSH$c             ┃"
+echo "$c ┃$k  AUTO$p SSH$c VMESS$n UDP$h FREE$p DARI$h FASTSSH$c             ┃"
 sleep 0.1
 echo "$c ┃$h =================================================$c ┃"
 sleep 0.1
