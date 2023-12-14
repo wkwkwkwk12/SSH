@@ -24,6 +24,7 @@ exit
 *)
 echo "$m pilih menu nya tuan"
 sleep 1
+clear
 sh .plankston/.name0
 exit
 esac
