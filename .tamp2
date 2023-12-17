@@ -23,7 +23,7 @@ echo "$c ┃━━━━━━━━━━━━━━━━━OPENTUNEL━━�
 sleep 0.1
 echo "$c ┃$m 10$a) $k.SSH WEBSHOCKET INDONESIA            $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 11$a) $k.SSH WEBSHOCKET FRANCIS              $a [$m ON$a ]$c  ┃"
+echo "$c ┃$m 11$a) $k.SSH WEBSHOCKET FRANCIS              $a [$h ON$a ]$c  ┃"
 sleep 0.1
 echo "$c ┃$m 12$a) $k.VMESS/V2RAY INDONESIA               $a [$h ON$a ]$c  ┃"
 sleep 0.1
