@@ -13,11 +13,11 @@ echo "$c ┃$k  AUTO$n SSH$h VMES UDP$p DARI$h JAGOANSSH$c FREE            ┃"
 sleep 0.1
 echo "$c ┃$h =================================================$c ┃"        
 sleep 0.1
-echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET INDONESIA    $h new     $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 7 $a) $k.SSH WEBSHOCKET INDONESIA    $h new    $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 8 $a) $k.SSH WEBSHOCKET SINGAPURE    $h new  $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 8 $a) $k.SSH WEBSHOCKET SINGAPURE    $h new    $a [$h ON$a ]$c  ┃"
 sleep 0.1
-echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET UNITED STATES$h new  $a [$h ON$a ]$c  ┃"
+echo "$c ┃$m 9 $a) $k.SSH WEBSHOCKET UNITED STATES$h new    $a [$h ON$a ]$c  ┃"
 sleep 0.1
 echo "$c ┃━━━━━━━━━━━━━━━━━OPENTUNEL━━━━━━FREE━━━━━━━━━━━━━━━┃"
 sleep 0.1
