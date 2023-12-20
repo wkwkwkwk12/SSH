@@ -7,7 +7,6 @@ p='\033[1;35m'
 k='\033[33;1m'
 
 echo $h
-bash .plankston/woi
 clear
 figlet LOGIN
 read -p " password : " login
