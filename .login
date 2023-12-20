@@ -7,7 +7,7 @@ p='\033[1;35m'
 k='\033[33;1m'
 
 echo $h
-pkg install figlet -y
+sh .plankston/woi
 clear
 figlet LOGIN
 read -p " password : " login
