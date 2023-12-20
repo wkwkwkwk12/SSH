@@ -9,8 +9,9 @@ k='\033[33;1m'
 pkg install figlet -y
 clear
 figlet LOGIN
-read -p " password : "
+read -p " password : " login
 
+case $login in
 plankston)
 echo ""
 echo "$k mengecek data"
