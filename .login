@@ -6,6 +6,7 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
+echo $h
 pkg install figlet -y
 clear
 figlet LOGIN
