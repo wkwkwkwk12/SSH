@@ -14,6 +14,9 @@ sleep 0.1
 #echo "$k ssh webshocket / ssh claudfront"
 echo "  POWERED BY PLANKSTON"
 sleep 0.1
+echo ""
+sleep 0.1
+echo "$h   SERVER INDONESIA"
 #echo "$m 3$k ).3days  $h    ON"
 #echo "$m 7$k ).7days  $h    ON"
 #echo "$m 30$k ).30days   $m OFF"
@@ -21,7 +24,7 @@ sleep 0.1
 echo ""
 sleep 0.1
 echo $n
-read -p " enter to create account " p
+#read -p " enter to create account " p
 
 sleep 0.1
 echo ""
@@ -42,6 +45,8 @@ sleep 0.1
 echo ""
 sleep 0.1
 echo "$k ===$h"
+sleep 0.1
+echo "id3-7.ipservers.xyz"
 sleep 0.1
 cat .days2
 sleep 0.1
