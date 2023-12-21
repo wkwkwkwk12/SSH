@@ -1,0 +1,81 @@
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
+
+
+echo $h
+sleep 0.1
+figlet JAGOANSSH
+sleep 0.1
+#echo "$k ssh webshocket / ssh claudfront"
+echo "  POWERED BY PLANKSTON"
+sleep 0.1
+#echo "$m 3$k ).3days  $h    ON"
+#echo "$m 7$k ).7days  $h    ON"
+#echo "$m 30$k ).30days   $m OFF"
+#echo "$m 60$k ).60days   $h ON"
+echo ""
+sleep 0.1
+echo $n
+read -p " enter to create account " p
+
+sleep 0.1
+echo ""
+#sleep 0.1
+#echo "  $p : DAYS " > .days
+sleep 0.1
+echo "$h LOADING...$k"
+sleep 1
+read -p " username : " pp
+sleep 0.1
+read -p " password : " ppp
+sleep 0.1
+
+echo " USERNAME : $pp " > .days2
+echo " PASSWORD : $ppp " > .days3
+sh .plankston/animals
+sleep 0.1
+echo ""
+sleep 0.1
+echo "$k ===$h"
+sleep 0.1
+cat .days2
+sleep 0.1
+cat .days3
+sleep 0.1
+echo "$k ===$h"
+sleep 0.1
+echo ""
+sleep 0.1
+echo "$h LOADING..."
+sleep 1
+echo ""
+echo "$k     SERVER :$m FULL$h"
+sleep 3
+echo ""
+sleep 0.1
+echo "$h ANDA AKAN DIALIHKAN KE ACCOUNT YANG DIBUAT BOT"
+sleep 0.1
+echo ""
+sleep 0.1
+cat .name
+sleep 0.1
+echo "$h BY PLANKSTON 😊😊😊"
+sleep 3
+sh .plankston/animals
+echo ""
+sleep 0.1
+echo ""
+sleep 0.1
+echo "$h  DONE"
+sleep 0.1
+cat .plankston/1
+sleep 0.1
+echo ""
+sleep 0.1
+read -p " press enter to menu " p
+sh .internet2

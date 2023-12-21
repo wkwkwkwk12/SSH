@@ -1,0 +1,38 @@
+a='\033[30;0m'
+n='\033[0m'
+h='\033[32;1m'
+m='\033[31;1m'
+c='\033[36;1m'
+p='\033[1;35m'
+k='\033[33;1m'
+
+echo $h
+figlet JAGOANSSH
+sleep 0.1
+echo " MASUKAN PASSWORD"
+sleep 0.1
+echo ""
+read -p " password : " p
+
+case $p in
+plankston01)
+echo ""
+echo "$k mengecek password"
+sleep 3
+echo "$h password benar"
+sleep 3
+sh .plankston/.skip
+exit
+;;
+*)
+echo ""
+echo "$k mengecek password"
+sleep 3
+echo "$m password salah"
+sleep 3
+clear
+sh .plankston/menu
+exit
+esac
+exit
+done
