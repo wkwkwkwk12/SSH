@@ -8,13 +8,16 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮$h"
+cat .name
 sleep 0.1
-echo "$n ┃ $k total pengguna premium :$a ☬⃟⧐$h 6   $n                 ┃$h"
-sleep 0.1
-echo "$n ┃ $k total pengguna scrypts :$a ☬⃟⧐$h 687   $n               ┃$h"
-sleep 0.1
-echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
+cd .plankston && python ip.py && cd ..
+#echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮$h"
+#sleep 0.1
+#echo "$n ┃ $k total pengguna premium :$a ☬⃟⧐$h 6   $n                 ┃$h"
+#sleep 0.1
+#echo "$n ┃ $k total pengguna scrypts :$a ☬⃟⧐$h 687   $n               ┃$h"
+#sleep 0.1
+#echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
 sleep 0.1
 echo " manusia bodoh.. api neraka akan membakar kalian menjadi abu"
 sleep 0.1
