@@ -13,7 +13,7 @@ def mengetik(z):
 #os.system("pip install mechanize")
 
 
-os.system("clear")
+#os.system("clear")
 mengetik("\033[1;96m+\033[1;93m========================================\033[1;96m+")
 #mengetik("\033[1;90m[\033[1;96m•\033[1;90m]\033[1;95m Author    \033[1;91m  : \033[1;96mPlankston")
 #mengetik("\033[1;90m[\033[1;96m•\033[1;90m]\033[1;95m YouTube     \033[1;91m: \033[1;96mBadut Noober")
