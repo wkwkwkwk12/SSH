@@ -8,9 +8,9 @@ p='\033[1;35m'
 k='\033[33;1m'
 
 echo "$k ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
-sleep 0.1
-echo "$k ┃$h                 JUAL AKUN PREMIUM$k                 ┃"
-sleep 0.1
+#sleep 0.1
+#echo "$k ┃$h                 JUAL AKUN PREMIUM$k                 ┃"
+#sleep 0.1
 #echo "$k ┃$m ID$k Ssh Claudfront                 ➡️ Rp10k /30hari ┃"
 #sleep 0.1
 #echo "$k ┃$h ID$k Ssh Webshocket Support Udp     ➡️ Rp10k /30hari ┃"
@@ -37,7 +37,7 @@ sleep 0.1
 #sleep 0.1
 #echo "$k ┃           jika pulsa tidak masuk                  ┃"
 #sleep 0.1
-echo "$k ┃$p              SILAHKAN YANG MAU BELI$k               ┃"
+#echo "$k ┃$p              SILAHKAN YANG MAU BELI$k               ┃"
 sleep 0.1
 echo "$k ┃$n WHATSAPP :$h 089618602219$k                           ┃"
 sleep 0.1

@@ -58,7 +58,7 @@ clear
 echo "$p           SELAMAT DATANG DI FITUR PLANKSTON"
 sleep 0.1
 echo $h
-cat .name
+#cat .name
 sleep 0.1
 date
 sleep 0.1
