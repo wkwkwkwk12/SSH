@@ -78,7 +78,7 @@ echo ""
 sleep 0.1
 echo "$h  DONE"
 sleep 0.1
-cat .plankston/1
+cat .plankston/error
 sleep 0.1
 echo ""
 sleep 0.1
