@@ -8,7 +8,7 @@ p='\033[1;35m'
 k='\033[33;1m'
 
 echo $h
-sh .plankston/.login
+#sh .plankston/.login
 echo "$h [                    ] 00% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍/ BOOTING..."
 sleep 0.1
 echo "$h [                    ] 01% 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍/ BOOTING..."

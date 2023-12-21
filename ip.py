@@ -14,7 +14,7 @@ def mengetik(z):
 
 
 #os.system("clear")
-mengetik("\033[1;96m+\033[1;93m========================================\033[1;96m+")
+#mengetik("\033[1;96m+\033[1;93m========================================\033[1;96m+")
 #mengetik("\033[1;90m[\033[1;96m•\033[1;90m]\033[1;95m Author    \033[1;91m  : \033[1;96mPlankston")
 #mengetik("\033[1;90m[\033[1;96m•\033[1;90m]\033[1;95m YouTube     \033[1;91m: \033[1;96mBadut Noober")
 #mengetik("\033[1;90m[\033[1;96m•\033[1;90m] \033[1;95mFacebook\033[1;91m    : \033[1;96mXXX")
@@ -27,7 +27,6 @@ try:
 
     gip = pygeoip.GeoIP("GeoLiteCity.dat")
     res = gip.record_by_addr(ip_saya)
-
     # output
     for key, val in res.items():
         print(f"{key} : {val}")
