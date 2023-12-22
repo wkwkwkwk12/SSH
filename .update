@@ -49,5 +49,5 @@ pip3 install pygeoip
 echo -e "${txtblk}Italian italics${ENDCOLOR}"
 pip install mechanize
 pkg install nmap -y
-#cd;rm -rf autossh && git clone https://github.com/mrben45/autossh && cd autossh && sh internet
+cd;rm -rf autossh && git clone https://github.com/mrben45/autossh && cd autossh && sh internet
 cd;bash .update
