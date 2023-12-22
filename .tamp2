@@ -33,6 +33,8 @@ echo "$c ┃$m 14$a) $k.SUPPORT PLANKSTON                   $a [$h ON$a ]$c  ┃
 sleep 0.1
 echo "$c ┃$m 15$a) $k.CREATE ACCOUNT SSH$h   >jagoanssh<    $a [$h ON$a ]$c  ┃"
 sleep 0.1
+echo "$c ┃$m 16$a) $k.SCAN BUG 200 OK                     $a [$h ON$a ]$c  ┃"
+sleep 0.1
 echo "$c ┃$m 0 $a) $m.KELUAR PROGRAM                      $c         ┃"
 sleep 0.1
 echo "$c ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯"
