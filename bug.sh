@@ -33,12 +33,12 @@ read -p "b/s : " p
 
 case $p in
 b)
-sh bug.sh
+sh .plankston/bug.sh
 exit
 ;;
 
 s)
-sh .l
+sh .plankston/.l
 exit
 ;;
 *)
