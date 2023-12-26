@@ -18,10 +18,10 @@ cd .plankston && python ip.py && cd ..
 #echo "$n ┃ $k total pengguna scrypts :$a ☬⃟⧐$h 687   $n               ┃$h"
 #sleep 0.1
 #echo "$n ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯$h"
-#sleep 0.1
-#echo " manusia bodoh.. api neraka akan membakar kalian menjadi abu"
+sleep 0.1
+echo "$h air mata adalah lambang kelemahan"
 sleep 0.1
 echo "$n ╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮"
 sleep 0.1
-echo "$n ┃$k Plankston :$h ON $k Update :$h 13         🚀 2023-11-18$n ┃"
+echo "$n ┃$k Plankston :$m OFF $k Update :$h 15        🚀 2023-11-18$n ┃"
 sleep 0.1
