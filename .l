@@ -6,7 +6,7 @@ c='\033[36;1m'
 p='\033[1;35m'
 k='\033[33;1m'
 
-echo "$k SCAN 200K, HOST OR IP"
+echo "$k SCAN 200 OK, HOST OR IP"
 echo $m
 read -p "scan : " tek
 
